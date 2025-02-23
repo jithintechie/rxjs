@@ -370,3 +370,7 @@ https://youtu.be/uRVWNOxBOBI?si=hKFBMsykd58kMFv2
 V8
 
 https://youtu.be/xckH5s3UuX4?si=pj6O1ZbBAFyuX2Cc
+
+complete angular-13 course
+
+https://github.com/manojjha86/complete-angular-13-course/
