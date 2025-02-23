@@ -32,6 +32,16 @@ export class RxjsComponent {
     observer.complete()
   })
 
+  //Behavior Subject
+  // private subject = new BehaviorSubject<string>("burger")
+  // sendMessage(message:string){
+  //  this.subject.next(message)
+  // }
+
+  // receiveMessage():Observable<string>{
+  //  return this.subject.asObservable()
+  // }
+
   rxjs(){
 
    //timer- The timer operator creates an obervable that emits a values after specific delay
